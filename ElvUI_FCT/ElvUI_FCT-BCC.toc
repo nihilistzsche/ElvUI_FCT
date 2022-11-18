@@ -4,6 +4,7 @@
 ## RequiredDeps: ElvUI
 ## Interface: 20504
 ## Version: 1.51
+## X-Nihilistzsche: true
 
 locales\load_locales.xml
 settings.lua
