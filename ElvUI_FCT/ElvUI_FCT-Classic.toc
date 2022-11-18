@@ -5,6 +5,7 @@
 ## Interface: 11404
 ## Version: 1.35
 ## IconTexture: Interface\AddOns\ElvUI_FCT\Button
+## X-Nihilistzsche: true
 
 locales\load_locales.xml
 settings.lua

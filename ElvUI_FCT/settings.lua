@@ -96,7 +96,7 @@ ns.defaults = {
 
 ns.frames = {
 	enable = false,
-	font = 'Expressway',
+	font = "Expressway",
 	fontSize = 14,
 	fontOutline = 'OUTLINE',
 	critFont = 'Expressway',
@@ -126,7 +126,7 @@ ns.frames = {
 	spellY = 0,
 	spellX = 0,
 	advanced = {
-		anim = 'fountain',
+		anim = "fountain",
 		radius = 64,
 		numTexts = 25,
 		ScrollTime = 1.5,
@@ -136,7 +136,7 @@ ns.frames = {
 		OffsetX = 24,
 		OffsetY = 8,
 		AlternateX = true,
-		AlternateY = false,
+		AlternateY = false
 	}
 }
 
